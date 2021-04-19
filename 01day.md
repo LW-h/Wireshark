@@ -72,6 +72,6 @@ FAQ...[Wireshark官网](https://www.wireshark.org/)
       - Statistics，提供统计一些功能
       - Protocols，这一部分与捕获和显示各种Wireshark能够解析的数据包有关，只有一部分协议提供相关配置
    
-###Data packet 色彩显示：
+### Data packet 色彩显示：
    > wireshark色彩设置主要有助于快速识别不同的协议，可以在wireshark的view 菜单栏中设定,在编辑着色过滤器时，前景色和背景色都可以修改。
    ![](./image/01day/01day_03.jpg)
